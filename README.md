@@ -2,16 +2,16 @@
 Stock RestApi 
 **Build with: **
 
- 1.Java 1.8 
- 2.Spring Boot v2.6.1 
- 3.JUnit 
- 4.Eclipse 
+ - Java 1.8 
+ - Spring Boot v2.6.1 
+ - JUnit 
+ - Eclipse 
 
 **Getting Started**
-Clone the project from Git 
-https://github.com/aishwarya-prasad/StockPrices.git
-Packaging > mvn clean package –DskipTests=true  
-Running > java –jar  ./target/xxx.jar 
+- Clone the project from Git 
+- https://github.com/aishwarya-prasad/StockPrices.git
+- Packaging > mvn clean package –DskipTests=true  
+- Running > java –jar  ./target/xxx.jar 
 
 **Rest endpoints info**
 
